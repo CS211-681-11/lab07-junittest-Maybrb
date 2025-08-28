@@ -8,6 +8,8 @@ import ku.cs.services.FXRouter;
 
 import java.io.IOException;
 
+
+
 public class HelloController {
     @FXML
     private Label welcomeText;
